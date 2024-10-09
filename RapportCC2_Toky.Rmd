@@ -2,4 +2,7 @@
 title: "RapportCC2_Toky"
 output: github_document
 ---
+```{r}
+gitcreds::gitcreds_set()
+```
 

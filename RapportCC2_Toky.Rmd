@@ -5,4 +5,7 @@ output: github_document
 ```{r}
 gitcreds::gitcreds_set()
 ```
+```{r}
+library(dada2); packageVersion("dada2")
+```
 
